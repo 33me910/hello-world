@@ -1,2 +1,6 @@
 # hello-world
-edX Work Repository
+
+
+
+My name is Allen
+I'm a PC gamer/nerd
